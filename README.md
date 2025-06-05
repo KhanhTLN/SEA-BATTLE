@@ -1,4 +1,4 @@
-![image-3](https://github.com/user-attachments/assets/819aaa7e-6921-41b4-840b-37c432978375)# Sea Battle
+# Sea Battle
 
 Sea Battle is a game for two players. The game is played on four grids, two for each player. The grids are typically square – usually 10×10 – and the individual squares in the grid are identified by letter and number. On one grid the player arranges ships and records the shots by the opponent. On the other grid the player records their own shots.
 
@@ -12,8 +12,8 @@ The project was done by [Trần Lê Nam Khánh](https://github.com/KhanhTLN), in
 
 ## Software Design (UML)
 
-- ![alt text](image-3.png)
-)
+- ![image-3](https://github.com/user-attachments/assets/5ced3a89-7472-472b-818f-03f4dc108f32)
+
 
 ## Demo Video
 
@@ -21,9 +21,9 @@ The project was done by [Trần Lê Nam Khánh](https://github.com/KhanhTLN), in
 
 ## Demo Image
 
-- ![alt text](image.png)
-- ![alt text](image-1.png)
-- ![alt text](image-2.png)
+- ![image](https://github.com/user-attachments/assets/11a18c0d-c70b-4ba1-9817-ba39f92b016f)
+- ![image-1](https://github.com/user-attachments/assets/882d582b-0fea-43c5-b63e-98007a56c5c7)
+- ![image-2](https://github.com/user-attachments/assets/b6e1a0a5-09df-43c9-b8b4-7d70ac7eef98)
 
 ## Features
 
